@@ -1,6 +1,6 @@
 def Person 
   
-  def initialize=(name)
+  def initialize=(person)
     @name = name 
   end 
   
